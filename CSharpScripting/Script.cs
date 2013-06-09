@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Reflection;
 
-namespace CavaStudios.Scripting
+namespace CSharpScripting.Scripting
 {
     /// <summary>
     /// An object that is a script

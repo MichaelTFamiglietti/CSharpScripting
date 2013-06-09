@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace CavaStudios.Scripting
+namespace CSharpScripting.Scripting
 {
     /// <summary>
     /// An object that is scriptable

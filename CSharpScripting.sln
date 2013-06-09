@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CavaScripting", "CavaScripting\CavaScripting.csproj", "{FFD684BA-810E-4AF6-93C2-9E42184C46E0}"
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpScripting", "CSharpScripting\CSharpScripting.csproj", "{FFD684BA-810E-4AF6-93C2-9E42184C46E0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
